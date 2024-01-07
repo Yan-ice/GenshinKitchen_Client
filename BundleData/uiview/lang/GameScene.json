@@ -1,0 +1,16 @@
+{
+    "en_US":{
+        "handbook":"Chef Handbook",
+        "script":"Script Compilation",
+        "reset":"Reset Kitchen",
+        "randomize":"Randomize Kitchen",
+        "key_help":"Keyboard Help",
+    },
+    "zh_CN":{
+        "handbook":"厨师手册",
+        "script":"脚本编译",
+        "reset":"重置厨房",
+        "randomize":"随机厨房",
+        "key_help":"键盘指南",
+    }
+}

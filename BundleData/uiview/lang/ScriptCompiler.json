@@ -1,0 +1,12 @@
+{
+    "en_US":{
+        "compile":"Compile the Script",
+        "UART":"Program Device",
+        "back":"Return to Kitchen",
+    },
+    "zh_CN":{
+        "compile":"编译脚本",
+        "UART":"写入开发板",
+        "back":"返回厨房",
+    }
+}

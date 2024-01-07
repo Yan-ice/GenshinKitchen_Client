@@ -1,0 +1,3 @@
+[submodule "YYNCore"]
+	path = YYNCore
+	url = https://github.com/Yan-ice/YYNCore.git

@@ -1,0 +1,12 @@
+{
+    "en_US":{
+        "title":"[1] Check Available Ports",
+        "port_available":"Detected available ports:",
+        "confirm":"Confirm"
+    },
+    "zh_CN":{
+        "title":"[1]检查可选端口名",
+        "port_available":"检测到可选端口名:",
+        "confirm":"确认端口名"
+    }
+}

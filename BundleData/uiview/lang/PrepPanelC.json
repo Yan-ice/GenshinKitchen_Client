@@ -1,0 +1,12 @@
+{
+    "en_US":{
+        "title":"[3] Check Connectivity",
+        "confirm":"Done",
+        "cancel":"Cancel"
+    },
+    "zh_CN":{
+        "title":"[3]测试连接状态",
+        "confirm":"测试完毕",
+        "cancel":"重新设置"
+    }
+}

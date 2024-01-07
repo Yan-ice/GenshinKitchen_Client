@@ -1,0 +1,14 @@
+{
+    "en_US":{
+        "board":"Connect to Board",
+        "key":"Try via Keyboard",
+        "guess":"进入中文版",
+        "title":"Genshin Kitchen",
+    },
+    "zh_CN":{
+        "board":"开发板连接",
+        "key":"键盘试玩",
+        "guess":"原神，启动！",
+	"title":"重生之\n我在提瓦特做黑暗料理"
+    }
+}

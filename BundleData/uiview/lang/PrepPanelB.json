@@ -1,0 +1,14 @@
+{
+    "en_US":{
+        "title":"[2] Connect to Development Board via UART",
+        "baut_option":"Baud Rate",
+        "port_option":"Port",
+        "connect_btn":"Confirm"
+    },
+    "zh_CN":{
+        "title":"[2]串口连接开发板",
+        "baut_option":"波特率设置",
+        "port_option":"端口名设置",
+        "connect_btn":"确认连接"
+    }
+}
